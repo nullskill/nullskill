@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm a software engineer currently specialised in app development using **Flutter** and **Dart**.
+I'm a software engineer specialised in app development using **Flutter** and **Dart**.
 
 <!--  Tech Stack START -->
 
