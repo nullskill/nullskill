@@ -4,7 +4,7 @@ I'm a software engineer currently specialised in app development using **Flutter
 
 <!--  Tech Stack START -->
 
-### Tech Stack
+<!-- ### Tech Stack -->
 
 <div>
 <!--  GitHub -->
