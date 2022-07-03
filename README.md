@@ -2,7 +2,7 @@
 
 I'm a software engineer specialised in app development using **Flutter** and **Dart**.
 
-![Telegram](https://github.com/nullskill/nullskill/blob/main/assets/images/tg_qr_code.svg)
+[![Telegram](https://github.com/nullskill/nullskill/blob/main/assets/images/tg_qr_code.svg)](https://t.me/nullskill)
 
 <!--  Tech Stack START -->
 
