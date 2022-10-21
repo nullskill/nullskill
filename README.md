@@ -4,9 +4,7 @@ I'm a software engineer specialised in app development using **Flutter** and **D
 
 [![Telegram](https://github.com/nullskill/nullskill/blob/main/assets/images/tg_qr_code.svg)](https://t.me/nullskill)
 
-<!--  Tech Stack START -->
-
-### Tech Stack
+### Languages and tools
 
 ![Flutter](https://github.com/nullskill/nullskill/blob/main/assets/images/flutter.svg)
 ![Dart](https://github.com/nullskill/nullskill/blob/main/assets/images/dart.svg)
