@@ -24,4 +24,4 @@ I'm a software engineer specialised in app development using **Flutter** and **D
 [![Eclipse test app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=eclipse-test-app&theme=transparent)](https://github.com/nullskill/eclipse-test-app)
 [![Battery charge plugin](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=battery-indicator&theme=transparent)](https://github.com/nullskill/battery-indicator)
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=leetcode&theme=transparent)](https://github.com/nullskill/leetcode)
-[![React Weather app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=ReactWeather&theme=transparent)](https://github.com/nullskill/ReactWeather)
+[![React Weather app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=open_weather_app&theme=transparent)](https://github.com/nullskill/open_weather_app)
