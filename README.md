@@ -19,9 +19,7 @@ I'm a software engineer specialised in app development using **Flutter** and **D
 
 ### Projects
 
-[![Surf Flutter dev course training project](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=surf-flutter-course-larkin&theme=transparent)](https://github.com/nullskill/surf-flutter-course-larkin)
 [![Movie app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=movie-app&theme=transparent)](https://github.com/nullskill/movie-app)
 [![Eclipse test app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=eclipse-test-app&theme=transparent)](https://github.com/nullskill/eclipse-test-app)
-[![Battery charge plugin](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=battery-indicator&theme=transparent)](https://github.com/nullskill/battery-indicator)
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=leetcode&theme=transparent)](https://github.com/nullskill/leetcode)
 [![React Weather app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=open_weather_app&theme=transparent)](https://github.com/nullskill/open_weather_app)
