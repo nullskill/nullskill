@@ -16,10 +16,3 @@ I'm a software engineer specialised in app development using **Flutter** and **D
 ![GraphQL](https://github.com/nullskill/nullskill/blob/main/assets/images/graphql.svg)
 ![gRPC](https://github.com/nullskill/nullskill/blob/main/assets/images/grpc.svg)
 ![Git](https://github.com/nullskill/nullskill/blob/main/assets/images/git.svg)
-
-### Projects
-
-[![Movie app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=movie-app&theme=transparent)](https://github.com/nullskill/movie-app)
-[![Eclipse test app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=eclipse-test-app&theme=transparent)](https://github.com/nullskill/eclipse-test-app)
-[![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=leetcode&theme=transparent)](https://github.com/nullskill/leetcode)
-[![React Weather app](https://github-readme-stats.vercel.app/api/pin/?username=nullskill&repo=open_weather_app&theme=transparent)](https://github.com/nullskill/open_weather_app)
